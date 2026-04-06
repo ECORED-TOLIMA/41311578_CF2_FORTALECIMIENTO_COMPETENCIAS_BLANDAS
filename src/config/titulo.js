@@ -1,1 +1,1 @@
-module.exports = 'Ecored Base PKG'
+module.exports = 'Competencias blandas aplicadas al trabajo en equipo'

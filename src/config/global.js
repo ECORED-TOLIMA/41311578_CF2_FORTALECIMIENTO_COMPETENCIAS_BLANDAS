@@ -1,8 +1,9 @@
 export default {
   global: {
-    Name: 'Nombre del recurso educativo',
-    Description: 'Descripción del RED',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
+    Name: 'Competencias blandas aplicadas al trabajo en equipo',
+    Description:
+      'Este componente formativo aborda el desarrollo de competencias blandas aplicadas al trabajo colaborativo en contextos laborales. Se analizan los fundamentos del trabajo en equipo, los roles dentro de los grupos de trabajo, las habilidades sociales para la interacción laboral y las estrategias para la resolución de problemas y toma de decisiones en equipo. Asimismo, se reflexiona sobre la importancia del trabajo colaborativo para fortalecer la productividad organizacional.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
