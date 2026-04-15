@@ -45,7 +45,7 @@
     .row.mt-4.justify-content-center
       .col-lg-10
         .titulo-sexto.color-acento-contenido.mb-3.mt-4
-          h5 Tabla 5.
+          h5 Tabla 4.
           span Relación entre trabajo colaborativo y productividad
 
         .tabla-a.color-acento-contenido
@@ -434,7 +434,7 @@
     
           li 
             .lista-ol--cuadro__vineta
-              span.text-black f
+              span.text-black F
             p.mb-0 Resolver desacuerdos mediante el diálogo y la búsqueda de soluciones concertadas.
 
 

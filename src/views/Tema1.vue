@@ -177,7 +177,7 @@
     #t_1_2.titulo-segundo.color-acento-contenido
       h2 1.2 Grupo de trabajo y equipo de trabajo
 
-    p En los contextos organizacionales y sociales es común utilizar los términos <em>grupo de trabajo</em> y <em>equipo de trabajo</em> como si fueran equivalentes; sin embargo, ambos conceptos presentan diferencias importantes en cuanto a su estructura, funcionamiento y nivel de colaboración entre los integrantes. Un grupo de trabajo está conformado por varias personas que realizan actividades relacionadas dentro de una misma organización o contexto, pero cuyas tareas se desarrollan principalmente de manera individual. En este caso, cada integrante es responsable de sus propias funciones y los resultados obtenidos dependen del desempeño personal de cada miembro.
+    p En los contextos organizacionales y sociales es común utilizar los términos grupo de trabajo y equipo de trabajo como si fueran equivalentes; sin embargo, ambos conceptos presentan diferencias importantes en cuanto a su estructura, funcionamiento y nivel de colaboración entre los integrantes. Un grupo de trabajo está conformado por varias personas que realizan actividades relacionadas dentro de una misma organización o contexto, pero cuyas tareas se desarrollan principalmente de manera individual. En este caso, cada integrante es responsable de sus propias funciones y los resultados obtenidos dependen del desempeño personal de cada miembro.
 
     p Las siguientes diferencias permiten distinguir con claridad entre el grupo de trabajo y el equipo de trabajo en los contextos organizacionales y sociales:
 
@@ -419,7 +419,7 @@
                 span.icono-img
                 p.mb-0 Incrementa la productividad y la eficiencia en el cumplimiento de las actividades laborales.
 
-
+    p.mt-4 De acuerdo con lo anterior, el trabajo colaborativo constituye un factor determinante para el crecimiento de las organizaciones y el desarrollo profesional de las personas que las integran. Su práctica constante fortalece tanto la eficiencia operativa como la convivencia en los espacios laborales, al promover relaciones basadas en la cooperación, el respeto y el compromiso colectivo. Estos elementos permiten comprender por qué la colaboración se consolida como una competencia esencial en los contextos organizacionales actuales.
 
 </template>
 
